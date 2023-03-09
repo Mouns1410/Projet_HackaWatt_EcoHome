@@ -42,13 +42,13 @@ export default function acceuil() {
                     </div>
                     <div className='h-[80%] w-screen bg-green-600 flex justify-around items-center'>
                         <div className='border border-black h-[110px] w-[110px] flex justify-center items-center'>
-                            <div className='border border-black h-[95px] w-[95px]'>
-                            
+                            <div className='border border-black h-[95px] w-[95px] flex justify-center items-center'>
+                                <p>Cuisine</p>
                             </div>  
                         </div>
                         <div className='border border-black h-[110px] w-[110px] flex justify-center items-center'>
-                            <div className='border border-black h-[95px] w-[95px]'>
-                            
+                            <div className='border border-black h-[95px] w-[95px] flex justify-center items-center'>
+                                <p>Salle de Bain</p>
                             </div>  
                         </div> 
                         <div className='border border-black h-[110px] w-[110px] flex justify-center items-center'>
